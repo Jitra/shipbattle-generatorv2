@@ -1,0 +1,10 @@
+{
+	"name": "@yufuzu/shipbattle-generator-2",
+	"author": "Mikołaj Woźniak",
+	"description": "Creates random maps for battleship game",
+	"version": "2.0.0",
+	"main": "board-generator.min.js",
+	"license": "MIT",
+	"dependencies": {},
+	"devDependencies": {}
+}
